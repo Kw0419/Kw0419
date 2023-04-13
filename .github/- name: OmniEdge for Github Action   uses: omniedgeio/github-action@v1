@@ -1,6 +1,8 @@
 # This is a basic workflow to help you get started with Actions
 
 name: CI
+- name: OmniEdge for Github Action
+  uses: omniedgeio/github-action@v1
 
 # Controls when the workflow will run
 on:
