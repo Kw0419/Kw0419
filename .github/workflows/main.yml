@@ -1,0 +1,2 @@
+- name: OmniEdge for Github Action
+  uses: omniedgeio/github-action@v1
